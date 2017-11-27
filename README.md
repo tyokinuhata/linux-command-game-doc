@@ -1,5 +1,5 @@
 # Linuxコマンドゲームとは
-![ロゴ](./logo.png)
+<img src="./logo.png" alt="Linuxコマンドゲーム" title="Linuxコマンドゲーム" width="300">
 
 Linuxコマンドゲームとは, 様々なLinuxコマンドを駆使して戦う新しいカードゲームです.
 
