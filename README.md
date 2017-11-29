@@ -1,3 +1,5 @@
+:warning: CAUTION: ルールは予告なしに変更されることがあります.
+
 # Linuxコマンドゲームとは
 <img src="./logo.png" alt="Linuxコマンドゲーム" title="Linuxコマンドゲーム" width="300">
 
